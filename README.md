@@ -5,5 +5,5 @@
 # Maura VASILE 
 # Inès RADELET
 # Mya RAMBOZ
-# https://github.com/uvsq-info/l1-python
+# https://github.com/uvsq22102805/projet_tas_de_sable-
 #########################################
