@@ -1,6 +1,6 @@
 #########################################
 # groupe TD3
-# Mathis DESPRES p
+# Mathis DESPRES 
 # Maura VASILE 
 # Inès RADELET
 # Mya RAMBOZ
