@@ -3,6 +3,6 @@
 # Mathis DESPRES p
 # Maura VASILE 
 # Inès RADELET coucou
-# Mya RAMBOZ
+# Mya RAMBOZ kiki
 # https://github.com/uvsq-info/l1-python
 #########################################
