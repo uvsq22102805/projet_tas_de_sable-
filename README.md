@@ -18,3 +18,11 @@ fonction error_handler permet de mettre une limite au nombre de colonnes en mode
 Utilisation du projet:
 
 lorsque le programme s'allume et que la fênetre apparaît, appuyer sur le mode que l'on veut, donc simulation ou opération, en mode simulation on choisis le nombre de colonnes (valeur à entrer dans la console) que l'on veut puis on peux actionner les boules comme on le souhaite. Pour le mode opératoire il faut juste rentrer les 2 valeurs que l'ont veut calculer puis cliquer sur le bouton qui défini l'opération souhaité
+
+bout de programme pris depuis un site :
+
+num = 13579
+x = [int(a) for a in str(num)]
+print(x)
+
+https://www.delftstack.com/fr/howto/python/split-integer-into-digits-python/#:~:text=%2C%207%2C%209%5D-,Utilisez%20les%20fonctions%20map()%20et%20str.,chaque%20élément%20d%27un%20itérable
