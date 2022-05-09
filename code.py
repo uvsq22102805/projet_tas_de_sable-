@@ -360,11 +360,3 @@ bouton2.pack(side=tk.RIGHT)
 
 
 racine.mainloop() # Lancement de la boucle principale
-
-# bout de programme pris depuis un site :
-
-num = 13579
-x = [int(a) for a in str(num)]
-print(x)
-
-https://www.delftstack.com/fr/howto/python/split-integer-into-digits-python/#:~:text=%2C%207%2C%209%5D-,Utilisez%20les%20fonctions%20map()%20et%20str.,chaque%20élément%20d%27un%20itérable
